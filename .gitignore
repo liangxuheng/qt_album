@@ -1,0 +1,24 @@
+# Qt build output
+build/
+.qtcreator/
+debug/
+release/
+Makefile
+Makefile.*
+*.o
+*.obj
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.exe
+*.exe.*
+*.dll
+*.so
+*.a
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.user
+*.user.*
+*.autosave

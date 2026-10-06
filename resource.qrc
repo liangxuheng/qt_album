@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/create_pro.png</file>
+        <file>res/open_pro.png</file>
+        <file>res/back_music.png</file>
+        <file>res/dir.png</file>
+        <file>res/down.png</file>
+        <file>res/right.png</file>
+        <file>res/import.png</file>
+        <file>res/core.png</file>
+        <file>style/style.qss</file>
+        <file>res/close.png</file>
+        <file>res/slideshow.png</file>
+        <file>res/pic.png</file>
+        <file>res/next.png</file>
+        <file>res/next_hover.png</file>
+        <file>res/next_press.png</file>
+        <file>res/previous.png</file>
+        <file>res/previous_hover.png</file>
+        <file>res/previous_press.png</file>
+        <file>res/close_stop.png</file>
+        <file>res/close_stop_enter.png</file>
+        <file>res/close_stop_hover.png</file>
+        <file>res/play.png</file>
+        <file>res/play_hover.png</file>
+        <file>res/play_press.png</file>
+        <file>res/pause.png</file>
+        <file>res/pause_enter.png</file>
+        <file>res/pause_hover.png</file>
+    </qresource>
+</RCC>
